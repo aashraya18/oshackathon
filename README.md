@@ -1,6 +1,7 @@
 # Automated Road-Tolling System
 
 ## Abstract
+
 - In this decade-one of the main problems faced by the society is pollution, and one of the main factors causing it is the over-usage of vehicles in day-to-day life.
 - The following points need to be checked:
   - The number of cars being used
